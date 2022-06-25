@@ -12,7 +12,7 @@
 <p align="center">
   Hi, my name is Hugo DURAND, I live in the south west of France.<br>
   I am currently a student in Robotics engineering at Polytech Nice-Sophia.
-  I completed my two years of preparatory cycle of the Polytech with a national network ranking of 146/1567 students.
+  I completed my two years of preparatory cycle of Polytech with a national network ranking of 146/1567 students.
   
 </p>
 
@@ -57,7 +57,8 @@ Now we are working on a new version in our free time, with higher torque servo m
 </p>
 
 
-<br><br><br><br><br><br>
+
+
 <h4 align="center">
   <a href="https://github.com/HAND42?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
