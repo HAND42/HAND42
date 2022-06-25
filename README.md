@@ -40,16 +40,20 @@
 As part of the Arduino courses in 2nd year of preparatory class, Raphael (<a href="https://github.com/neoteristis/" title="Raphael Anjou Profile">neoteristis</a>) and I built a dog robot with 3D printing, Arduino hardware and C++ code.
 This is the first version of our robot :
 
-| Polydog Exploded View   |      Polydog in the grass      |
+| Polydog Exploded View   |      Polydog Walk     |
 |:----------:|:-------------:|
-| ![Polydog robot exploded view](images/robot-exploded-view.png) |  ![Polydog robot](images/robot-V1-real.png) |
-<p align="center">
+| ![Polydog robot exploded view](images/robot-exploded-view.png) |  ![Polydog robot](images/WalkRobot.gif) |
+
+Now we are working on a new version in our free time, with higher torque servo motors, stronger gearing, larger leg and aluminum body :
+
+![Polydog Version 2](images/polydog_version2.png)
+
+
+<p align="center">For more information : <br>
     <a href="https://github.com/HAND42/polydog-peip2-arduino-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip2-arduino-project&theme=cobalt" 
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAND42&repo=polydog-peip2-arduino-project&theme=cobalt" 
             alt="Peip2 Arduino Project"/>
     </a>
-  <br>
-    <a href="https://www.youtube.com/channel/UCp-MOXWuPocJWpOKq-EK11g/videos?view=0>"><img width="20" src="https://img.icons8.com/doodle/344/youtube-play--v2.png">
 </p>
 
 
